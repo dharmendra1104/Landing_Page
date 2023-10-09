@@ -25,7 +25,7 @@ This project serves as a basic template for creating a landing page. It's design
 
 ## Preview
 
-![Uploading Web capture_10-10-2023_1839_127.0.0.1.jpeg…]()
+![Web capture_10-10-2023_1839_127 0 0 1](https://github.com/dharmendra1104/Landing_Page/assets/140887766/457a31ec-5d7d-49e3-b65f-fc0f77de11c2)
 
 
 ## Getting Started
