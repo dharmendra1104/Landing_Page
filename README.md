@@ -57,5 +57,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 If you have any questions or suggestions regarding this project, feel free to contact me:
 
-- GitHub: [dharmendra1104](https://github.com/dharmendra1104)
+- GitHub: [https://github.com/dharmendra1104](https://github.com/dharmendra1104)
 - Email: [dharmendra11042@gmail.com](dharmendra11042@gmail.com)
