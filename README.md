@@ -1,6 +1,7 @@
 # Landing Page Project
 
-![Project Preview](marvin-meyer-SYTO3xs06fU-unsplash.jpg)
+![Web capture_10-10-2023_1839_127 0 0 1](https://github.com/dharmendra1104/Landing_Page/assets/140887766/457a31ec-5d7d-49e3-b65f-fc0f77de11c2)
+
 
 This is a simple landing page project created using HTML and CSS. It includes a navigation menu, a header section with a background image, and a call-to-action button.
 
