@@ -57,5 +57,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 If you have any questions or suggestions regarding this project, feel free to contact me:
 
-- GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
-- Email: [youremail@example.com](mailto:youremail@example.com)
+- GitHub: [dharmendra1104](https://github.com/dharmendra1104)
+- Email: [dharmendra11042@gmail.com](dharmendra11042@gmail.com)
