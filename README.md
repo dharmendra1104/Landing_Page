@@ -25,7 +25,8 @@ This project serves as a basic template for creating a landing page. It's design
 
 ## Preview
 
-![Project Preview](marvin-meyer-SYTO3xs06fU-unsplash.jpg)
+![Uploading Web capture_10-10-2023_1839_127.0.0.1.jpeg…]()
+
 
 ## Getting Started
 
