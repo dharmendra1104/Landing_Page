@@ -1,7 +1,6 @@
 # Landing Page Project
 
-![Web capture_10-10-2023_1839_127 0 0 1](![Landing Page - Google Chrome 10_11_2023 9_57_43 PM](https://github.com/dharmendra1104/Landing_Page/assets/140887766/69e97641-01a1-4562-a9da-cb2f3fc4b556)
-)
+(![Landing Page - Google Chrome 10_11_2023 9_57_43 PM](https://github.com/dharmendra1104/Landing_Page/assets/140887766/69e97641-01a1-4562-a9da-cb2f3fc4b556)
 
 
 This is a simple landing page project created using HTML and CSS. It includes a navigation menu, a header section with a background image, and a call-to-action button.
@@ -26,8 +25,8 @@ This project serves as a basic template for creating a landing page. It's design
 
 ## Preview
 
-![Web capture_10-10-2023_1839_127 0 0 1](![Landing Page - Google Chrome 10_11_2023 9_57_43 PM](https://github.com/dharmendra1104/Landing_Page/assets/140887766/75c2413a-83a1-447b-9b54-5585c666fce4)
-)
+(![Landing Page - Google Chrome 10_11_2023 9_57_43 PM](https://github.com/dharmendra1104/Landing_Page/assets/140887766/75c2413a-83a1-447b-9b54-5585c666fce4)
+
 
 
 ## Getting Started
